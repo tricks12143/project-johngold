@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 13, 2017 at 07:12 PM
+-- Generation Time: Dec 26, 2017 at 03:19 PM
 -- Server version: 10.1.9-MariaDB
 -- PHP Version: 5.6.15
 
@@ -169,7 +169,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (1, 1, 1, 'Title', 'WELCOME', '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:06:27'),
 (2, 1, 2, 'Description', NULL, '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:00:58'),
 (3, 1, 3, 'Logo', 'logo.png', '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:06:50'),
-(4, 1, 4, 'Header Background', 'header-bg.jpg', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-13 01:06:59'),
+(4, 1, 4, 'Header Background', 'DSTIBldg1.jpg', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-12-25 23:14:13'),
 (5, 1, 9, 'Navigation', 'jg_nav', '0', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-14 07:58:58'),
 (6, 1, 10, 'Profile-title', 'COMPANY PROFILE', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-13 01:55:50'),
 (7, 1, 11, 'Profile-desc', 'Learn more about us', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-27 07:18:43'),
@@ -290,7 +290,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (150, 4, 1, 'Title', 'About Us', NULL, NULL, NULL, NULL, '2017-11-24 09:46:07', '2017-11-24 10:28:26'),
 (151, 4, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-24 09:46:07', '2017-11-24 09:46:07'),
 (152, 4, 3, 'Logo', NULL, NULL, NULL, NULL, NULL, '2017-11-24 09:46:07', '2017-11-24 09:46:07'),
-(153, 4, 4, 'Header Background', 'header-bg.jpg', NULL, NULL, NULL, NULL, '2017-11-24 09:46:07', '2017-11-24 09:48:12'),
+(153, 4, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-11-24 09:46:07', '2017-12-25 23:14:32'),
 (154, 4, 9, 'Navigation', 'jg_nav', '0', NULL, '', '', '2017-11-24 09:46:07', '2017-11-24 09:46:17'),
 (155, 4, 14, 'Teamviewer', 'jg_team_gallery', '4', NULL, '6', 'yes', '2017-11-24 10:31:00', '2017-11-24 10:33:07'),
 (156, 4, 23, 'Services', 'jg_services', '5', NULL, '2', 'off', '2017-11-24 10:31:00', '2017-11-24 10:35:00'),
@@ -304,7 +304,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (165, 29, 9, 'Navigation', 'jg_nav', '0', NULL, '', '', '2017-11-26 09:09:39', '2017-11-26 09:11:10'),
 (166, 30, 9, 'Navigation', 'jg_nav', '0', NULL, '', '', '2017-11-26 09:11:39', '2017-11-26 09:16:40'),
 (167, 29, 1, 'Title', 'Services', NULL, NULL, NULL, NULL, '2017-11-26 09:59:32', '2017-11-26 10:00:34'),
-(168, 29, 4, 'Header Background', 'header-bg.jpg', NULL, NULL, NULL, NULL, '2017-11-26 09:59:32', '2017-11-26 10:01:05'),
+(168, 29, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-11-26 09:59:32', '2017-12-25 23:14:41'),
 (169, 29, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-26 10:01:43', '2017-11-26 10:09:02'),
 (170, 29, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-26 10:01:43', '2017-11-26 10:01:43'),
 (171, 29, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-26 10:01:43', '2017-11-26 10:09:13'),
@@ -312,7 +312,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (173, 4, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-26 10:03:54', '2017-11-26 10:03:54'),
 (174, 4, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-26 10:03:54', '2017-11-26 10:08:06'),
 (175, 30, 1, 'Title', 'CONNECT TO US', NULL, NULL, NULL, NULL, '2017-11-26 10:12:05', '2017-11-26 10:13:57'),
-(176, 30, 4, 'Header Background', 'header-bg.jpg', NULL, NULL, NULL, NULL, '2017-11-26 10:12:05', '2017-11-26 10:12:38'),
+(176, 30, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-11-26 10:12:05', '2017-12-25 23:14:50'),
 (180, 30, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-26 10:57:18', '2017-11-26 10:57:18'),
 (181, 1, 30, 'Affiliation-title', 'Affiliate', NULL, NULL, NULL, NULL, '2017-11-27 02:28:28', '2017-11-27 02:28:41'),
 (182, 1, 31, 'Affiliation-desc', 'Meet our family', NULL, NULL, NULL, NULL, '2017-11-27 02:30:49', '2017-11-27 02:31:20'),
@@ -378,14 +378,14 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (244, 29, 25, 'Services-title', NULL, NULL, NULL, NULL, NULL, '2017-11-28 17:25:41', '2017-11-28 17:25:41'),
 (245, 29, 27, 'Services-description', NULL, NULL, NULL, NULL, NULL, '2017-11-28 17:25:41', '2017-11-28 17:25:41'),
 (246, 39, 1, 'Title', 'FAQs', NULL, NULL, NULL, NULL, '2017-12-05 07:04:31', '2017-12-05 07:06:02'),
-(247, 39, 4, 'Header Background', 'header-bg.jpg', NULL, NULL, NULL, NULL, '2017-12-05 07:04:32', '2017-12-05 07:06:32'),
+(247, 39, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-12-05 07:04:32', '2017-12-25 23:15:15'),
 (248, 39, 9, 'Navigation', 'jg_nav', '0', NULL, '', '', '2017-12-05 07:04:32', '2017-12-05 07:07:07'),
 (249, 39, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-12-05 07:04:32', '2017-12-05 07:10:00'),
 (250, 39, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-12-05 07:04:32', '2017-12-05 07:04:32'),
 (251, 39, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-12-05 07:04:32', '2017-12-05 07:10:43'),
 (252, 39, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-12-05 07:12:44', '2017-12-05 07:12:44'),
 (253, 38, 1, 'Title', 'Newsletter', NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-05 07:20:58'),
-(254, 38, 4, 'Header Background', 'header-bg.jpg', NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-05 07:21:09'),
+(254, 38, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-25 23:15:04'),
 (255, 38, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-05 07:21:41'),
 (256, 38, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-05 07:20:23'),
 (257, 38, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-12-05 07:20:23', '2017-12-05 07:22:47'),
@@ -645,7 +645,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `lname`, `fname`, `mname`, `img`, `level`, `change_code`, `stat`, `ol_stat`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'zRwdsRUse0pGCjhZ4rMuRqW7Tl0VW2AzXIX3aXvnzn4O70hZO5FSchgC9SAO', '2017-11-30 08:31:28', '2017-12-13 03:10:29');
+(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'zRwdsRUse0pGCjhZ4rMuRqW7Tl0VW2AzXIX3aXvnzn4O70hZO5FSchgC9SAO', '2017-11-30 08:31:28', '2017-12-25 22:43:44');
 
 --
 -- Indexes for dumped tables
