@@ -186,7 +186,7 @@
 		</div>
 	</section>
 
-    <section class="services">
+    <section class="services" id="services">
 		<div class="col-lg-12 text-center">
 			@if(count($contentsubs) > 0)
 		    		@foreach($contentsubs as $contentsub)
